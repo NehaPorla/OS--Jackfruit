@@ -151,6 +151,5 @@ Through this implementation, we learned:
 
 > The project serves as a strong foundation for understanding advanced containerization technologies and system-level programming.
 
----
+--
 
-<p align="center">Made with ❤️ by Porla Neha & Pradeep R | PES University</p>
