@@ -104,22 +104,22 @@ sudo pkill sleep
 ## 📸 Screenshots
 
 ### 🔹 Task 1: Run Container
-![Task1](images/Task1.png)
+
 
 ### 🔹 Task 2: Background Container Execution
-![Task2](images/Task2.png)
+
 
 ### 🔹 Task 3: Logs Output
-![Task3](images/Task3.png)
+
 
 ### 🔹 Task 4: Stop Container
-![Task4](images/Task4.png)
+
 
 ### 🔹 Task 5: Root Filesystem (Alpine Linux)
-![Task5](images/Task5.png)
+
 
 ### 🔹 Task 6: Multiple Containers
-![Task6](images/Task6.png)
+
 
 ---
 
@@ -152,4 +152,3 @@ Through this implementation, we learned:
 > The project serves as a strong foundation for understanding advanced containerization technologies and system-level programming.
 
 --
-
