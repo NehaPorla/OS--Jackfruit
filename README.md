@@ -1,6 +1,6 @@
 # 🐳 OS Jackfruit - Container Runtime
 
---
+---
 
 ## 👩‍💻 Team Members
 
@@ -104,22 +104,22 @@ sudo pkill sleep
 ## 📸 Screenshots
 
 ### 🔹 Task 1: Run Container
-
+<img width="707" height="456" alt="Screenshot 2026-04-24 150629" src="https://github.com/user-attachments/assets/1f27e7ed-9baa-4074-aca7-d44763f894e3" />
 
 ### 🔹 Task 2: Background Container Execution
-
+<img width="698" height="447" alt="Screenshot 2026-04-24 150618" src="https://github.com/user-attachments/assets/5cd65d8b-1ed7-49e0-bb61-2251740a0e5d" />
 
 ### 🔹 Task 3: Logs Output
-
+<img width="693" height="454" alt="Screenshot 2026-04-24 150609" src="https://github.com/user-attachments/assets/b475d1d2-9388-4f58-840a-ce0b64780bc2" />
 
 ### 🔹 Task 4: Stop Container
-
+<img width="697" height="450" alt="Screenshot 2026-04-24 150600" src="https://github.com/user-attachments/assets/14c2a545-7d19-42ee-9418-984ff6f38547" />
 
 ### 🔹 Task 5: Root Filesystem (Alpine Linux)
-
+<img width="697" height="450" alt="Screenshot 2026-04-24 150550" src="https://github.com/user-attachments/assets/c1ae4ed3-8917-42ea-a5a2-59baeba9f98c" />
 
 ### 🔹 Task 6: Multiple Containers
-
+<img width="701" height="447" alt="Screenshot 2026-04-24 150538" src="https://github.com/user-attachments/assets/087f4cc2-1482-4934-a9d3-ac676db746e4" />
 
 ---
 
@@ -151,4 +151,4 @@ Through this implementation, we learned:
 
 > The project serves as a strong foundation for understanding advanced containerization technologies and system-level programming.
 
---
+---
